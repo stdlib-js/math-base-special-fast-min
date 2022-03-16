@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-fast-min",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Return the minimum value.",
   "license": "Apache-2.0",
   "author": {
