@@ -1,0 +1,31 @@
+{
+  "name": "@stdlib/math-base-special-fast-min",
+  "version": "0.0.0",
+  "description": "Return the minimum value.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-fast-min.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdfastmath",
+    "mathematics",
+    "math",
+    "fastmath",
+    "fast",
+    "minimum",
+    "min",
+    "smallest"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
