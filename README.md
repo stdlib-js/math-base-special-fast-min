@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-min@esm/index.mjs';
+import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-min@v0.1.0-esm/index.mjs';
 ```
 
 #### min( x, y )
@@ -113,7 +113,7 @@ var v = min( 4.2, 3.14 );
 <script type="module">
 
 import minstd from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-minstd-shuffle@esm/index.mjs';
-import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-min@esm/index.mjs';
+import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-min@v0.1.0-esm/index.mjs';
 
 var x;
 var y;
