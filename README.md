@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-min@deno/mod.js';
+import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-min@v0.2.0-deno/mod.js';
 ```
 
 #### min( x, y )
@@ -108,7 +108,7 @@ var v = min( 4.2, 3.14 );
 
 ```javascript
 import minstd from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-minstd-shuffle@deno/mod.js';
-import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-min@deno/mod.js';
+import min from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-min@v0.2.0-deno/mod.js';
 
 var x;
 var y;
